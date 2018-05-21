@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  klasa.cpp
+  guids.cpp
+  factory.cpp
+  dll.cpp
+  Generating Code...
+  dllmain.cpp
+     Creating library E:\studia\ksr\dll\Debug\dll.lib and object E:\studia\ksr\dll\Debug\dll.exp
+dll.exp : warning LNK4070: /OUT:ksr_com_lab1.dll directive in .EXP differs from output filename 'E:\studia\ksr\dll\Debug\dll.dll'; ignoring directive
+  dll.vcxproj -> E:\studia\ksr\dll\Debug\dll.dll
+  dll.vcxproj -> E:\studia\ksr\dll\Debug\dll.pdb (Full PDB)

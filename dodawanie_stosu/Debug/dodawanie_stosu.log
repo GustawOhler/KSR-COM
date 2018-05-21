@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+  stdafx.cpp
+  guids.cpp
+  factory.cpp
+  dodawanie_stosu.cpp
+  dodawanie.cpp
+  Generating Code...
+     Creating library E:\studia\ksr\dll\Debug\dodawanie_stosu.lib and object E:\studia\ksr\dll\Debug\dodawanie_stosu.exp
+  dodawanie_stosu.vcxproj -> E:\studia\ksr\dll\Debug\dodawanie_stosu.dll
+  dodawanie_stosu.vcxproj -> E:\studia\ksr\dll\Debug\dodawanie_stosu.pdb (Full PDB)

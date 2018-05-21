@@ -1,0 +1,11 @@
+#include<windows.h>
+
+DEFINE_GUID(IID_IKlasa, 0x15944a2e, 0x934e, 0x441b, 0x9a, 0xf1, 0xab, 0xfc, 0x96, 0x67, 0xab, 0xa0);
+DEFINE_GUID(CLSID_Klasa, 0xc4464e5, 0x83b1, 0x4b92, 0xa6, 0x73, 0x33, 0x5a, 0x39, 0xf3, 0x39, 0x28);
+
+class IKlasa: public IUnknown {
+public:
+	virtual HRESULT STDMETHODCALLTYPE Push(int val) = 0;
+	virtual HRESULT STDMETHODCALLTYPE PopEx(int *val) = 0;
+	virtual int STDMETHODCALLTYPE Pop() = 0;
+	};

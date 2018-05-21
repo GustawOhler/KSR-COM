@@ -1,0 +1,7 @@
+LIBRARY dodawanie_stosu.dll
+
+EXPORTS
+	DllCanUnloadNow	PRIVATE
+	DllGetClassObject PRIVATE  
+
+
